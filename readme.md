@@ -9,10 +9,8 @@
 </p>
 
 <p align="center">
-  LINK DO WAKATIME
+  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/fe5c807a-f290-4495-98a0-9cf95c0f9040"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/fe5c807a-f290-4495-98a0-9cf95c0f9040.svg" alt="wakatime"></a>
 </p>
-
-![Preview](./assets/preview.jpg)
 
 ## 💻 Projeto
 
